@@ -4,4 +4,4 @@ Source code and assets of the game can be found here
 
 Take a look at game.py file for game. 
 You need python and some modules to run the game from the .py file.
-needed modules: pygame, math, random, sys, json(the game doesnt use it but the engine.py file uses it for an function 
+needed modules: pygame, math, random, sys, json
